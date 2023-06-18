@@ -25,4 +25,3 @@ function escreverTexto(elemento, texto){
 }
 
 
-console.log("t")
